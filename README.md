@@ -1,6 +1,6 @@
 # 19085436d-mid-project
 
-Followings are the URLs I have made my home page.
+Followings are the URLs of homepage I have created using HTML and CSS.
 
 (COMP server) www.comp.polyu.edu.hk/~19085436d 
 
